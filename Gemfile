@@ -9,7 +9,7 @@ gem 'ruby-progressbar', '>=1.8.1'
 
 group :test do
   gem 'webmock', '>=2.3.2'
-  gem 'simplecov', '>=0.13.0'
+  gem 'simplecov', '>= 0.15.1'
   gem 'rspec', '>=3.5.0'
   gem 'rspec-its', '>=1.2.0'
 end
